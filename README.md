@@ -1,4 +1,4 @@
-Focus
+#Focus
 
 A simple Go app that runs on localhost to redirect every request you make to social media website to localhost. 
 
